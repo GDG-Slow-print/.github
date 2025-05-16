@@ -62,11 +62,6 @@ Through tracking carbon-reducing activities and offering meaningful benefits—s
 - Local business APIs for coupons and discounts
 
 ---
-## 🖼️ Wireframe Preview
-
-![Wireframe](./와이어프레임.svg)
-
----
 
 ## 🔮 Future Development
 
